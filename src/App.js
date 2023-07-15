@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>卡皮扒拉成本计算器</h1>
+      <table>
+        <thead>
+          <tr>
+            <th>项目名</th>
+            <th>类型</th>
+            <th>数量</th>
+            <th>价格</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        </tbody>
+      </table>
     </div>
   );
 }
