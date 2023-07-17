@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+.filedRow {
+    border: 0.1em solid silver;
+    margin: 1em;
+    padding: 1em;
+    min-width: 6em;
+    display: inline-block;
+}
+
+.filedRow label {
+    margin-right: 0.5em;
+    text-align: center;
+}
+.filedRow input {
+    float: right;
+}
+
+.filedRow select {
+    float: right;
+}
