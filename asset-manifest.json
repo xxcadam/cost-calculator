@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cost-calculator/static/css/main.ff2e44ac.css",
+    "main.js": "/cost-calculator/static/js/main.577e0db5.js",
+    "static/js/787.4c7f7380.chunk.js": "/cost-calculator/static/js/787.4c7f7380.chunk.js",
+    "index.html": "/cost-calculator/index.html",
+    "main.ff2e44ac.css.map": "/cost-calculator/static/css/main.ff2e44ac.css.map",
+    "main.577e0db5.js.map": "/cost-calculator/static/js/main.577e0db5.js.map",
+    "787.4c7f7380.chunk.js.map": "/cost-calculator/static/js/787.4c7f7380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff2e44ac.css",
+    "static/js/main.577e0db5.js"
+  ]
+}
